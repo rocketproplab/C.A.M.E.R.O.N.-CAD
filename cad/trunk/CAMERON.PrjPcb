@@ -38,6 +38,23 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
+DocumentPath=Schematics\Actuators\Recovery.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=12
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=QGDEBLEA
+
+[Document2]
 DocumentPath=Schematics\CAMERON.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -54,7 +71,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VLCLGEWP
 
-[Document2]
+[Document3]
 DocumentPath=Schematics\MCU\RIO_MCU.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -71,7 +88,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=USLMOQYU
 
-[Document3]
+[Document4]
 DocumentPath=Libraries\LaunchyRIOFootprints.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -88,7 +105,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PVXOWIOJ
 
-[Document4]
+[Document5]
 DocumentPath=Libraries\LaunchyRIOComponents.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -105,7 +122,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GRTJSAUJ
 
-[Document5]
+[Document6]
 DocumentPath=Schematics\Power\Power.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -122,7 +139,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VMDISYVD
 
-[Document6]
+[Document7]
 DocumentPath=PCB\CAMERON.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -139,7 +156,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PYJTBUDT
 
-[Document7]
+[Document8]
 DocumentPath=Schematics\MCU\RIO_MCU.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -156,7 +173,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document8]
+[Document9]
 DocumentPath=Schematics\Power\Power.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -173,7 +190,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document9]
+[Document10]
 DocumentPath=Schematics\Breakouts\SWD_Breakout.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -190,7 +207,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GHOUPBNA
 
-[Document10]
+[Document11]
 DocumentPath=Schematics\Breakouts\SWD_Breakout.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -207,7 +224,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document11]
+[Document12]
 DocumentPath=Schematics\Sensors\Thermocouple_Amplifier.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -224,7 +241,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document12]
+[Document13]
 DocumentPath=Schematics\Sensors\Thermocouple_Amplifier.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -241,7 +258,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PPJFVLFW
 
-[Document13]
+[Document14]
 DocumentPath=Schematics\Sensors\Thermocouples.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -258,7 +275,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HOSPXCHA
 
-[Document14]
+[Document15]
 DocumentPath=Schematics\Actuators\Solenoids.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -275,7 +292,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EKLVXUCF
 
-[Document15]
+[Document16]
 DocumentPath=Schematics\Sensors\Pressure_Transducers.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -291,23 +308,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UWNSHIQA
-
-[Document16]
-DocumentPath=Schematics\Actuators\Solenoid_Driver.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=12
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=QGDEBLEA
 
 [Document17]
 DocumentPath=Schematics\MCU\Flight_Computer.SchDoc
@@ -327,23 +327,6 @@ GenerateClassCluster=0
 DocumentUniqueId=YLLMDKTG
 
 [Document18]
-DocumentPath=Schematics\MCU\Raven.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=11
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=PKGUVTQV
-
-[Document19]
 DocumentPath=Schematics\MCU\Flight_Computer.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -360,7 +343,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document20]
+[Document19]
 DocumentPath=Schematics\Sensors\Pressure_Transducers.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -377,7 +360,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document21]
+[Document20]
 DocumentPath=Schematics\Sensors\XBee.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -394,7 +377,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GQHVRPVQ
 
-[Document22]
+[Document21]
 DocumentPath=Schematics\Sensors\Power_Monitor.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -411,7 +394,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UBYUYOFS
 
-[Document23]
+[Document22]
 DocumentPath=Schematics\Sensors\XBee.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -428,7 +411,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document24]
+[Document23]
 DocumentPath=CAM\CAMtastic1.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -445,8 +428,42 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document25]
+[Document24]
 DocumentPath=Schematics\Sensors\Power_Monitor.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document25]
+DocumentPath=Schematics\Actuators\Solenoid_Driver.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=19
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=WNLKSERO
+
+[Document26]
+DocumentPath=Schematics\Actuators\Recovery.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -810,7 +827,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=hp LaserJet 1320 PCL 5
+TargetPrinter=Send To OneNote 2016
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
@@ -1858,94 +1875,82 @@ ComponentUpdate12=0
 ComponentIsDeviceSheet12=0
 ComponentLibIdentifierKind13=Library Name And Type
 ComponentLibraryIdentifier13=LaunchyRIOComponents.SchLib
-ComponentDesignItemID13=Raven3
-ComponentSymbolReference13=Raven3
+ComponentDesignItemID13=SPM15-033-Q12P-C
+ComponentSymbolReference13=SPM15-033-Q12P-C
 ComponentUpdate13=0
 ComponentIsDeviceSheet13=0
 ComponentLibIdentifierKind14=Library Name And Type
 ComponentLibraryIdentifier14=LaunchyRIOComponents.SchLib
-ComponentDesignItemID14=SPM15-033-Q12P-C
-ComponentSymbolReference14=SPM15-033-Q12P-C
+ComponentDesignItemID14=SPM15-050-Q12P-C
+ComponentSymbolReference14=SPM15-050-Q12P-C
 ComponentUpdate14=0
 ComponentIsDeviceSheet14=0
 ComponentLibIdentifierKind15=Library Name And Type
 ComponentLibraryIdentifier15=LaunchyRIOComponents.SchLib
-ComponentDesignItemID15=SPM15-050-Q12P-C
-ComponentSymbolReference15=SPM15-050-Q12P-C
-ComponentUpdate15=0
+ComponentDesignItemID15=STM32F407xx
+ComponentSymbolReference15=STM32F407xx
+ComponentUpdate15=1
 ComponentIsDeviceSheet15=0
 ComponentLibIdentifierKind16=Library Name And Type
 ComponentLibraryIdentifier16=LaunchyRIOComponents.SchLib
-ComponentDesignItemID16=STM32F407xx
-ComponentSymbolReference16=STM32F407xx
-ComponentUpdate16=1
+ComponentDesignItemID16=UWE-24/3-Q12PB-C
+ComponentSymbolReference16=UWE-24/3-Q12PB-C
+ComponentUpdate16=0
 ComponentIsDeviceSheet16=0
 ComponentLibIdentifierKind17=Library Name And Type
-ComponentLibraryIdentifier17=LaunchyRIOComponents.SchLib
-ComponentDesignItemID17=UWE-24/3-Q12PB-C
-ComponentSymbolReference17=UWE-24/3-Q12PB-C
+ComponentLibraryIdentifier17=Miscellaneous Connectors.IntLib
+ComponentDesignItemID17=Header 4
+ComponentSymbolReference17=Header 4
 ComponentUpdate17=0
 ComponentIsDeviceSheet17=0
 ComponentLibIdentifierKind18=Library Name And Type
-ComponentLibraryIdentifier18=LaunchyRIOComponents.SchLib
-ComponentDesignItemID18=XBP9B-DMSTB002
-ComponentSymbolReference18=XBP9B-DMSTB002
+ComponentLibraryIdentifier18=Miscellaneous Devices.IntLib
+ComponentDesignItemID18=Cap
+ComponentSymbolReference18=Cap
 ComponentUpdate18=0
 ComponentIsDeviceSheet18=0
 ComponentLibIdentifierKind19=Library Name And Type
-ComponentLibraryIdentifier19=Miscellaneous Connectors.IntLib
-ComponentDesignItemID19=Header 4
-ComponentSymbolReference19=Header 4
+ComponentLibraryIdentifier19=Miscellaneous Devices.IntLib
+ComponentDesignItemID19=Diode
+ComponentSymbolReference19=Diode
 ComponentUpdate19=0
 ComponentIsDeviceSheet19=0
 ComponentLibIdentifierKind20=Library Name And Type
 ComponentLibraryIdentifier20=Miscellaneous Devices.IntLib
-ComponentDesignItemID20=Cap
-ComponentSymbolReference20=Cap
+ComponentDesignItemID20=Jumper
+ComponentSymbolReference20=Jumper
 ComponentUpdate20=0
 ComponentIsDeviceSheet20=0
 ComponentLibIdentifierKind21=Library Name And Type
 ComponentLibraryIdentifier21=Miscellaneous Devices.IntLib
-ComponentDesignItemID21=Diode
-ComponentSymbolReference21=Diode
+ComponentDesignItemID21=MOSFET-N
+ComponentSymbolReference21=MOSFET-N
 ComponentUpdate21=0
 ComponentIsDeviceSheet21=0
 ComponentLibIdentifierKind22=Library Name And Type
 ComponentLibraryIdentifier22=Miscellaneous Devices.IntLib
-ComponentDesignItemID22=Jumper
-ComponentSymbolReference22=Jumper
+ComponentDesignItemID22=Res1
+ComponentSymbolReference22=Res1
 ComponentUpdate22=0
 ComponentIsDeviceSheet22=0
 ComponentLibIdentifierKind23=Library Name And Type
 ComponentLibraryIdentifier23=Miscellaneous Devices.IntLib
-ComponentDesignItemID23=MOSFET-N
-ComponentSymbolReference23=MOSFET-N
+ComponentDesignItemID23=XTAL
+ComponentSymbolReference23=XTAL
 ComponentUpdate23=0
 ComponentIsDeviceSheet23=0
 ComponentLibIdentifierKind24=Library Name And Type
-ComponentLibraryIdentifier24=Miscellaneous Devices.IntLib
-ComponentDesignItemID24=Res1
-ComponentSymbolReference24=Res1
+ComponentLibraryIdentifier24=RPL_POWER.IntLib
+ComponentDesignItemID24=Cap
+ComponentSymbolReference24=Cap
 ComponentUpdate24=0
 ComponentIsDeviceSheet24=0
 ComponentLibIdentifierKind25=Library Name And Type
-ComponentLibraryIdentifier25=Miscellaneous Devices.IntLib
-ComponentDesignItemID25=XTAL
-ComponentSymbolReference25=XTAL
+ComponentLibraryIdentifier25=RPL_POWER.IntLib
+ComponentDesignItemID25=Res
+ComponentSymbolReference25=Res
 ComponentUpdate25=0
 ComponentIsDeviceSheet25=0
-ComponentLibIdentifierKind26=Library Name And Type
-ComponentLibraryIdentifier26=RPL_POWER.IntLib
-ComponentDesignItemID26=Cap
-ComponentSymbolReference26=Cap
-ComponentUpdate26=0
-ComponentIsDeviceSheet26=0
-ComponentLibIdentifierKind27=Library Name And Type
-ComponentLibraryIdentifier27=RPL_POWER.IntLib
-ComponentDesignItemID27=Res
-ComponentSymbolReference27=Res
-ComponentUpdate27=0
-ComponentIsDeviceSheet27=0
 FullReplace=1
 UpdateDesignatorLock=0
 UpdatePartIDLock=0
@@ -1959,70 +1964,60 @@ RemoveParameters=0
 AddModels=1
 RemoveModels=1
 UpdateCurrentModels=1
-ParameterName0=Availability
+ParameterName0=C
 ParameterUpdate0=1
-ParameterName1=C
+ParameterName1=Comment
 ParameterUpdate1=1
-ParameterName2=Comment
+ParameterName2=Component Kind
 ParameterUpdate2=1
-ParameterName3=Component Kind
+ParameterName3=ComponentLink1Description
 ParameterUpdate3=1
-ParameterName4=ComponentLink1Description
+ParameterName4=ComponentLink1URL
 ParameterUpdate4=1
-ParameterName5=ComponentLink1URL
+ParameterName5=Copyright
 ParameterUpdate5=1
-ParameterName6=Copyright
+ParameterName6=Description
 ParameterUpdate6=1
-ParameterName7=Description
+ParameterName7=DigiKey Part Number
 ParameterUpdate7=1
-ParameterName8=DigiKey Part Number
+ParameterName8=DigiKey PN
 ParameterUpdate8=1
-ParameterName9=DigiKey PN
+ParameterName9=Frequency
 ParameterUpdate9=1
-ParameterName10=Frequency
+ParameterName10=LatestRevisionDate
 ParameterUpdate10=1
-ParameterName11=LatestRevisionDate
+ParameterName11=LatestRevisionNote
 ParameterUpdate11=1
-ParameterName12=LatestRevisionNote
+ParameterName12=Library Reference
 ParameterUpdate12=1
-ParameterName13=Library Reference
+ParameterName13=Link
 ParameterUpdate13=1
-ParameterName14=Link
+ParameterName14=Manufacturer PN
 ParameterUpdate14=1
-ParameterName15=Manufacturer PN
+ParameterName15=Manufacturer_Part_Number
 ParameterUpdate15=1
-ParameterName16=Manufacturer_Part_Number
+ParameterName16=PackageDescription
 ParameterUpdate16=1
-ParameterName17=MF
+ParameterName17=PackageReference
 ParameterUpdate17=1
-ParameterName18=MP
+ParameterName18=Published
 ParameterUpdate18=1
-ParameterName19=Package
+ParameterName19=Publisher
 ParameterUpdate19=1
-ParameterName20=PackageDescription
+ParameterName20=RefDes
 ParameterUpdate20=1
-ParameterName21=PackageReference
+ParameterName21=Thermocouple Type
 ParameterUpdate21=1
-ParameterName22=Price
+ParameterName22=Type
 ParameterUpdate22=1
-ParameterName23=Published
+ParameterName23=URL
 ParameterUpdate23=1
-ParameterName24=Publisher
+ParameterName24=Value
 ParameterUpdate24=1
-ParameterName25=RefDes
+ParameterName25=Vendor
 ParameterUpdate25=1
-ParameterName26=Thermocouple Type
+ParameterName26=Voltage
 ParameterUpdate26=1
-ParameterName27=Type
-ParameterUpdate27=1
-ParameterName28=URL
-ParameterUpdate28=1
-ParameterName29=Value
-ParameterUpdate29=1
-ParameterName30=Vendor
-ParameterUpdate30=1
-ParameterName31=Voltage
-ParameterUpdate31=1
 ModelTypeGroup0=PCBLIB
 ModelTypeUpdate0=1
 ModelType0=PCBLIB
@@ -2047,7 +2042,7 @@ ModelType6=PCBLIB
 ModelName6=BeagleBoneBlack
 ModelUpdate6=1
 ModelType7=PCBLIB
-ModelName7=DIP2200W51P200L3294H279Q20P
+ModelName7=BeagleBoneBlack - Minimal
 ModelUpdate7=1
 ModelType8=PCBLIB
 ModelName8=DPAK2
@@ -2074,13 +2069,13 @@ ModelType15=PCBLIB
 ModelName15=MSOP-10_MS
 ModelUpdate15=1
 ModelType16=PCBLIB
-ModelName16=PSO-8
+ModelName16=OSC_8MHz
 ModelUpdate16=1
 ModelType17=PCBLIB
-ModelName17=PUSHBUTTON
+ModelName17=PSO-8
 ModelUpdate17=1
 ModelType18=PCBLIB
-ModelName18=Raven3
+ModelName18=PUSHBUTTON
 ModelUpdate18=1
 ModelType19=PCBLIB
 ModelName19=RU_24
