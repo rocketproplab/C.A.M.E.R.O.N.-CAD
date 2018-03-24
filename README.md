@@ -20,9 +20,17 @@ CAMERON contains the following features:
 * SWD and UART Headers for debugging/programming the STM32F4
 * Breakout for separate Recovery PCB that triggers chute at apogee
 
-CAMERON used to contain the following features, but not anymore:
-* Up to 48 V input
-* Generic SPI/I2C Breakouts
-* CAN Connector
-* Raven altimeter
-
+## Todo List for upcoming revisions
+[ ] Add designators to all components
+[ ] Shorten designators for multi-channel elements
+[ ] Add silk to the XBee connector and remove the J8 designator
+[ ] Expand the diameter of the holes for the BeagleBone
+[ ] Add Logo and Revision notes on the PCB
+[ ] Fix footprint for solder bridge
+[X] Move the "5V Regulator" Label away from the stitching vias
+[X] Add tenting to the stitching vias next to the power connector
+[X] Distribute silk designators on Generic GPIO breakout
+[X] Make copper pours reach the edges of the PCB
+[X] Add Silk designators to the TC/PT breakouts (PT1, TC1 etc)
+[X] Flip the flipped designators
+[X] Label 3V3 on the SWD Header
