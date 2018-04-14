@@ -21,16 +21,18 @@ CAMERON contains the following features:
 * Breakout for separate Recovery PCB that triggers chute at apogee
 
 ## Todo List for upcoming revisions
-[ ] Add designators to all components
-[ ] Shorten designators for multi-channel elements
-[ ] Add silk to the XBee connector and remove the J8 designator
-[ ] Expand the diameter of the holes for the BeagleBone
-[ ] Add Logo and Revision notes on the PCB
-[ ] Fix footprint for solder bridge
-[X] Move the "5V Regulator" Label away from the stitching vias
-[X] Add tenting to the stitching vias next to the power connector
-[X] Distribute silk designators on Generic GPIO breakout
-[X] Make copper pours reach the edges of the PCB
-[X] Add Silk designators to the TC/PT breakouts (PT1, TC1 etc)
-[X] Flip the flipped designators
-[X] Label 3V3 on the SWD Header
+- [ ] FIX THE MOSFET FOOTPRINT (Gate and Drain are flipped)
+- [ ] Add designators to all components
+- [ ] Shorten designators for multi-channel elements
+- [ ] Add silk to the XBee connector and remove the J8 designator
+- [ ] Expand the diameter of the holes for the BeagleBone
+- [ ] Add thermal relief to pads
+- [ ] Add Logo and Revision notes on the PCB
+- [ ] Fix footprint for solder bridge
+- [X] Move the "5V Regulator" Label away from the stitching vias
+- [X] Add tenting to the stitching vias next to the power connector
+- [X] Distribute silk designators on Generic GPIO breakout
+- [X] Make copper pours reach the edges of the PCB
+- [X] Add Silk designators to the TC/PT breakouts (PT1, TC1 etc)
+- [X] Flip the flipped designators
+- [X] Label 3V3 on the SWD Header
