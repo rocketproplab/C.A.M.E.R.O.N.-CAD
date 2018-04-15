@@ -22,6 +22,9 @@ CAMERON contains the following features:
 
 ## Todo List for upcoming revisions
 - [ ] FIX THE MOSFET FOOTPRINT (Gate and Drain are flipped)
+- [ ] FLIP BOOT PINS (test them first)
+- [ ] Add indicator LEDs for various items
+- [ ] Add Reset signal to Programming header
 - [ ] Add designators to all components
 - [ ] Shorten designators for multi-channel elements
 - [ ] Add silk to the XBee connector and remove the J8 designator
