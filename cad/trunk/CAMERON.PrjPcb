@@ -39,13 +39,13 @@ PrefsRevisionGUID=
 
 [Document1]
 DocumentPath=Schematics\Actuators\Recovery.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
 AnnotateOrder=12
-DoLibraryUpdate=0
+DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=0
@@ -56,13 +56,13 @@ DocumentUniqueId=QGDEBLEA
 
 [Document2]
 DocumentPath=Schematics\CAMERON.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=1
 AnnotateSuffix=
 AnnotateScope=All
 AnnotateOrder=2
-DoLibraryUpdate=0
+DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=0
@@ -73,13 +73,13 @@ DocumentUniqueId=VLCLGEWP
 
 [Document3]
 DocumentPath=Schematics\MCU\RIO_MCU.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=1
 AnnotateSuffix=
 AnnotateScope=All
 AnnotateOrder=3
-DoLibraryUpdate=0
+DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=0
@@ -113,7 +113,7 @@ AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
 AnnotateOrder=-1
-DoLibraryUpdate=0
+DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=1
@@ -124,13 +124,13 @@ DocumentUniqueId=GRTJSAUJ
 
 [Document6]
 DocumentPath=Schematics\Power\Power.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=1
 AnnotateSuffix=
 AnnotateScope=All
 AnnotateOrder=8
-DoLibraryUpdate=0
+DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=0
@@ -192,13 +192,13 @@ DocumentUniqueId=
 
 [Document10]
 DocumentPath=Schematics\Breakouts\SWD_Breakout.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
 AnnotateOrder=14
-DoLibraryUpdate=0
+DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=0
@@ -243,13 +243,13 @@ DocumentUniqueId=
 
 [Document13]
 DocumentPath=Schematics\Sensors\Thermocouple_Amplifier.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
 AnnotateOrder=15
-DoLibraryUpdate=0
+DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=0
@@ -260,13 +260,13 @@ DocumentUniqueId=PPJFVLFW
 
 [Document14]
 DocumentPath=Schematics\Sensors\Thermocouples.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
 AnnotateOrder=16
-DoLibraryUpdate=0
+DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=0
@@ -277,13 +277,13 @@ DocumentUniqueId=HOSPXCHA
 
 [Document15]
 DocumentPath=Schematics\Actuators\Solenoids.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
 AnnotateOrder=13
-DoLibraryUpdate=0
+DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=0
@@ -300,7 +300,7 @@ AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
 AnnotateOrder=10
-DoLibraryUpdate=0
+DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=0
@@ -311,13 +311,13 @@ DocumentUniqueId=UWNSHIQA
 
 [Document17]
 DocumentPath=Schematics\MCU\Flight_Computer.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
 AnnotateOrder=9
-DoLibraryUpdate=0
+DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=0
@@ -362,13 +362,13 @@ DocumentUniqueId=
 
 [Document20]
 DocumentPath=Schematics\Sensors\XBee.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
 AnnotateOrder=17
-DoLibraryUpdate=0
+DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=0
@@ -379,13 +379,13 @@ DocumentUniqueId=GQHVRPVQ
 
 [Document21]
 DocumentPath=Schematics\Sensors\Power_Monitor.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
 AnnotateOrder=18
-DoLibraryUpdate=0
+DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=0
@@ -430,13 +430,13 @@ DocumentUniqueId=
 
 [Document24]
 DocumentPath=Schematics\Actuators\Solenoid_Driver.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
 AnnotateOrder=19
-DoLibraryUpdate=0
+DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=1
@@ -846,7 +846,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Send To OneNote 2016
+TargetPrinter=hp LaserJet 1320 PCL 5
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
@@ -1591,6 +1591,11 @@ Type108=1
 Type109=1
 Type110=1
 Type111=1
+Type112=1
+Type113=1
+Type114=1
+Type115=1
+Type116=1
 
 [Difference Levels]
 Type1=1
@@ -1655,6 +1660,9 @@ Type59=1
 Type60=1
 Type61=1
 Type62=1
+Type63=1
+Type64=1
+Type65=1
 
 [Electrical Rules Check]
 Type1=1
@@ -1778,6 +1786,7 @@ Type118=3
 Type119=3
 MultiChannelAlternate=2
 AlternateItemFail=3
+Type122=2
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
@@ -2114,48 +2123,51 @@ ModelType21=PCBLIB
 ModelName21=SMC
 ModelUpdate21=1
 ModelType22=PCBLIB
-ModelName22=SPM15-033-Q48N-C
+ModelName22=Solder Bridge
 ModelUpdate22=1
 ModelType23=PCBLIB
-ModelName23=SPM15-050-Q12P-C
+ModelName23=SPM15-033-Q48N-C
 ModelUpdate23=1
 ModelType24=PCBLIB
-ModelName24=UJ_5
+ModelName24=SPM15-050-Q12P-C
 ModelUpdate24=1
 ModelType25=PCBLIB
-ModelName25=UWE-24/3-Q12
+ModelName25=UJ_5
 ModelUpdate25=1
+ModelType26=PCBLIB
+ModelName26=UWE-24/3-Q12
+ModelUpdate26=1
 ModelTypeGroup1=SI
 ModelTypeUpdate1=1
-ModelType26=SI
-ModelName26=Cap
-ModelUpdate26=1
 ModelType27=SI
-ModelName27=Connector
+ModelName27=Cap
 ModelUpdate27=1
 ModelType28=SI
-ModelName28=Diode
+ModelName28=Connector
 ModelUpdate28=1
 ModelType29=SI
-ModelName29=Res
+ModelName29=Diode
 ModelUpdate29=1
+ModelType30=SI
+ModelName30=Res
+ModelUpdate30=1
 ModelTypeGroup2=SIM
 ModelTypeUpdate2=1
-ModelType30=SIM
-ModelName30=CAP
-ModelUpdate30=1
 ModelType31=SIM
-ModelName31=DIODE
+ModelName31=CAP
 ModelUpdate31=1
 ModelType32=SIM
-ModelName32=NMOS
+ModelName32=DIODE
 ModelUpdate32=1
 ModelType33=SIM
-ModelName33=RESISTOR
+ModelName33=NMOS
 ModelUpdate33=1
 ModelType34=SIM
-ModelName34=XTAL
+ModelName34=RESISTOR
 ModelUpdate34=1
+ModelType35=SIM
+ModelName35=XTAL
+ModelUpdate35=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
