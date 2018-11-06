@@ -1,6 +1,8 @@
 # C.A.M.E.R.O.N
 
-## The main PCB on Launchy that is responsible for all the Avionics tasks of the rocket
+The main PCB on Launchy that is responsible for all the Avionics tasks of the rocket
+
+<img src="media/Render-FrontBack.PNG"/>
 
 ## Maintainer
 CAMERON is maintained by George Troulis, with numerous contributions from Seyed Omid Hassanli
